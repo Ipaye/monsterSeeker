@@ -1,0 +1,14 @@
+.search {
+  display: flex;
+  min-width: 40vw;
+  padding: 20px;
+  font-family: inherit;
+  color: black;
+  font-size: 16px;
+
+  margin: 40px 0;
+}
+
+.search::placeholder {
+  color: rgba(36, 36, 36, 0.452);
+}
