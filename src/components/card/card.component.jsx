@@ -1,6 +1,5 @@
 import React from 'react'
 import './card.style.css'
-import moduleName from 'module'
 
 export const Card = props => {
   return (
